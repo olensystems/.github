@@ -1,5 +1,8 @@
 # Olen Systems
+
 **Infrastructure software for complex, high-stakes domains.**
+
+![banner](banner.png)
 
 We build distributed systems and specialised platforms where correctness, reliability, and architectural depth are non-negotiable. Our work spans security operations infrastructure, clinical data platforms, and beyond.
 
@@ -11,4 +14,4 @@ We build distributed systems and specialised platforms where correctness, reliab
 
 ## Contact
 
-[olensystems.com](https://olensystems.com) · contact@olensystems.com
+[Website](https://olensystems.com) · contact@olensystems.com
